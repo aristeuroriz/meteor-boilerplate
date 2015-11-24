@@ -18,3 +18,22 @@ Front-end:
 	2 - Bootswatch Theme Flatly (bootswatch:flatly);
 	3 - Bootstrap Accounts UI (ian:accounts-ui-bootstrap-3);
 	4 - Sass (fourseven:scss);
+
+
+Directories Patterns:
+
+meteor-boilerplate
+	|- .meteor
+	|- client
+			|- config
+			|- events
+			|- helpers
+			|- routes
+			|- stylesheets
+			|- views
+	|- collections
+	|- config
+	|- public
+	|- server
+			|- config
+	|- tests
