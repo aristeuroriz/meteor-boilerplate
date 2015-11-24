@@ -28,7 +28,6 @@ client/                 # Client folder
     lib/                # Library files that get executed first
     	events/			# Events folder
     	helpers/		# Helpers folder
-    	routes/			# Routes settings folder
     startup/            # Javascript files on Meteor.startup()
     stylesheets         # Sass files
     views/              # Contains all views(*)
