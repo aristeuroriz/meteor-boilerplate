@@ -22,18 +22,23 @@ Front-end:
 
 Directories Patterns:
 
-meteor-boilerplate
-	|- .meteor
-	|- client
-			|- config
-			|- events
-			|- helpers
-			|- routes
-			|- stylesheets
-			|- views
-	|- collections
-	|- config
-	|- public
-	|- server
-			|- config
-	|- tests
+client/                 # Client folder
+    config/             # Configuration files (on the client)
+    lib/                # Library files that get executed first
+    	events/			# Events folder
+    	helpers/		# Helpers folder
+    	routes/			# Routes settings folder
+    startup/            # Javascript files on Meteor.startup()
+    stylesheets         # Sass files
+    views/              # Contains all views(*)
+collections/            # Model files, for each Meteor.Collection(*)
+config/					# Config files commons between server-side and client-side
+private/                # Private files
+public/                 # Public files
+routes/                 # All routes(*)
+server/                 # Server folder
+	config/				# Configuration files (on the server)
+    lib/                # Server side library folder
+    publications/       # Collection publications(*)
+    startup/            # On server startup
+tests/					# All files from test suites
