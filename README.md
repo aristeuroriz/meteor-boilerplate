@@ -22,6 +22,7 @@ Front-end:
 
 Directories Patterns:
 
+```
 client/                 # Client folder
     config/             # Configuration files (on the client)
     lib/                # Library files that get executed first
@@ -42,3 +43,4 @@ server/                 # Server folder
     publications/       # Collection publications(*)
     startup/            # On server startup
 tests/					# All files from test suites
+```
