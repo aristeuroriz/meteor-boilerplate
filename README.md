@@ -15,9 +15,10 @@ Back-end
 Front-end:
 
 	1 - Bootstrap 3 (twbs:bootstrap);
-	2 - Bootswatch Theme Flatly (bootswatch:flatly);
+	2 - Bootswatch Theme Flat UI (jss:flat-ui);
 	3 - Bootstrap Accounts UI (ian:accounts-ui-bootstrap-3);
 	4 - Sass (fourseven:scss);
+	5 - Font Awesome (fortawesome:fontawesome);
 
 
 Directories Patterns:
