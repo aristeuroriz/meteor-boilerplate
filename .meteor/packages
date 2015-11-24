@@ -18,3 +18,13 @@ ecmascript              # Enable ECMAScript2015+ syntax in app code
 
 autopublish             # Publish all data to the clients (for prototyping)
 insecure                # Allow all DB writes from clients (for prototyping)
+twbs:bootstrap
+bootswatch:flatly
+accounts-base
+accounts-password
+accounts-facebook
+accounts-google
+ian:accounts-ui-bootstrap-3
+iron:router
+meteorhacks:fast-render
+fourseven:scss
