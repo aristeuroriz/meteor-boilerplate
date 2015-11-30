@@ -29,3 +29,5 @@ meteorhacks:fast-render
 fourseven:scss
 jss:flat-ui
 fortawesome:fontawesome
+sanjo:jasmine
+velocity:html-reporter

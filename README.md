@@ -1,5 +1,7 @@
 Meteor Boilerplate
 
+[![Build Status](http://localhost:8080/job/Meteor%20Boilerplate/badge/icon)](http://jenkins.zapto.org/job/Meteor%20Boilerplate/)
+
 Features
 
 Back-end
@@ -10,6 +12,8 @@ Back-end
 	4 - Accounts Google (accounts google);
 	5 - Iron Router (iron:router);
 	6 - Fast Render (meteorhacks:fast-render);
+	7 - Tests: Jasmine (sanjo:jasmine)
+	8 - Tests: Velocity (velocity:html-reporter)
 
 
 Front-end:
