@@ -10,6 +10,8 @@ Back-end
 	4 - Accounts Google (accounts google);
 	5 - Iron Router (iron:router);
 	6 - Fast Render (meteorhacks:fast-render);
+	7 - Tests: Jasmine (sanjo:jasmine)
+	8 - Tests: Velocity (velocity:html-reporter)
 
 
 Front-end:
