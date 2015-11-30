@@ -1,6 +1,6 @@
 Meteor Boilerplate
 
-[![Build Status](http://localhost:8080/job/Meteor%20Boilerplate/badge/icon)](http://jenkins.zapto.org/job/Meteor%20Boilerplate/)
+[![Build Status](http://localhost:8080/buildStatus/icon?job=Meteor Boilerplate&build=4)](http://localhost:8080/job/Meteor%20Boilerplate/4/)
 
 Features
 
